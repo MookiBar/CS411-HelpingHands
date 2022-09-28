@@ -1,0 +1,18 @@
+[submodule "hh-team-site"]
+	path = hh-team-site
+	url = https://github.com/wirel003/hh-team-site.git
+[submodule "hh-python-webserver"]
+	path = hh-python-webserver
+	url = https://github.com/wirel003/hh-python-webserver.git
+[submodule "hh-reverse-proxy"]
+	path = hh-reverse-proxy
+	url = https://github.com/wirel003/hh-reverse-proxy.git
+[submodule "hh-html-templates"]
+	path = hh-html-templates
+	url = https://github.com/wirel003/hh-html-templates.git
+[submodule "hh-db-templates"]
+	path = hh-db-templates
+	url = https://github.com/wirel003/hh-db-templates.git
+[submodule "hh-devops"]
+	path = hh-devops
+	url = https://github.com/wirel003/hh-devops.git
