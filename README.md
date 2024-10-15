@@ -13,4 +13,4 @@ Areas of responsibility are split into seperate repos:
 
 *hh-reverse-proxy* : scripts or configs relevant to the reverse proxy server.
 
-*hh-team-site* : backup of the main page at cs.odu.edu/~411green
+*hh-team-site* : https://www.cs.odu.edu/~cpi/old/411/greenf22/index.html
